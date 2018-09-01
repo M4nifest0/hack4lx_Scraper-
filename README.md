@@ -1,36 +1,26 @@
-# hack4lx_Scraper
-Scraper followers &amp; following instagram
+# Instabot
 
-The main topic :::: https://github.com/instagrambot/instabot
+Instagram promotion and SMM scripts.
+Forever free. Written in Python.
 
-How To Install Script ::: https://github.com/attakercyebr/hack4lx_Scraper-/blob/master/hack4lx_Scraper_Install
+---
+### [Read the Docs](https://instagrambot.github.io/docs/) | [Contribute](https://github.com/instagrambot/docs/blob/master/CONTRIBUTING.md)
+---
+
+[![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/instabotproject)
+![Python 2.7, 3.5, 3.6](https://img.shields.io/badge/python-2.7%2C%203.5%2C%203.6-blue.svg)
+[![PyPI version](https://badge.fury.io/py/instabot.svg)](https://badge.fury.io/py/instabot)
+[![Build Status](https://travis-ci.org/instagrambot/instabot.svg?branch=master)](https://travis-ci.org/instagrambot/instabot)
+[![codecov](https://codecov.io/gh/instagrambot/instabot/branch/master/graph/badge.svg)](https://codecov.io/gh/instagrambot/instabot)
+<span class="badge-bitcoin"><a href="https://github.com/instagrambot/instabot/blob/master/.github/DONATE_BITCOIN.md" title="Donate once-off to this project using Bitcoin"><img src="https://img.shields.io/badge/bitcoin-donate-yellow.svg" alt="Bitcoin donate button" /></a></span>
+
+### Installation
+Install `instabot` with:
+```
+pip install -U instabot
+```
+#### or see [this](https://instagrambot.github.io/docs/en/#installation) for more details.
 
 
 
-✯ Follow Me ♥
-
-✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-⋖❂ 💻 （︶︿︶）Hacking security team（︶︿︶）❂⋗
-
-⋖⋖⋖ 💢™M4nifest0 Cyber security team™💢 ⋗⋗⋗
-
-⚠️ Read-First:
-
-•The author of the does not encourage anyone to repeat this. Otherwise, you will be solely responsible. The was created for informational purposes. And for the fact that you caution you!
-
-✂●●●●●●●●●●●●●●●●●●●●●●●●●●●●
-
-✯Just Leave Like & Subs You Can Share iT With Y're lovely Friends
-
-✯ Thank's For/4 Watching ^^
-
-Cσρчяιgнτ ©2018 ✪ @hack4lx ✪
-
-💻 （︶︿︶）Hacking security team（︶︿︶）
-
-💢™M4nifest0 Cyber security team™💢
-
-🆔 @hack4lx
-
-😎 Telegram : 🆔 @os20ir
+![Instabot is better than other open-source bots!](https://github.com/instagrambot/docs/blob/master/img/instabot_3_bots.png "Instabot is better than other open-source bots!")
