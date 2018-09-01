@@ -17,7 +17,7 @@
 *********************
 6) open Git command prompt
 7) Run code::  python following-save.py -u (ACCOUNT USERNAME ) -p (ACCOUNT PASSWORD) following.txt (USERNAME TARGET)
-8)  https://www.instagram.com/web/friendships/USERID Scraper/follow
+8) https://www.instagram.com/web/friendships/USERID Scraper/follow
 
 
 
