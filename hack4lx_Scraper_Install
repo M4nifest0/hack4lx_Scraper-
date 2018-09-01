@@ -13,7 +13,7 @@
 4) pip install -r requirements.txt
 5) pip install -U instabot
 ************************************
-**** Run Pyton SCript
+**** Run Pyton Script
 *********************
 6) open Git command prompt
 7) Run code::  python following-save.py -u (ACCOUNT USERNAME ) -p (ACCOUNT PASSWORD) following.txt (USERNAME TARGET)
