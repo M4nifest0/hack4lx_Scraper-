@@ -9,7 +9,7 @@
 64bit (https://github.com/git-for-windows/git/releases/download/v2.18.0.windows.1/Git-2.18.0-64-bit.exe)
 *************************************
 *** Run the installer At the command prompt, type
-3) install *** https://github.com/attakercyebr/hack4lx_Scraper-.git
+3) install *** https://github.com/instagrambot/instabot.git
 4) pip install -r requirements.txt
 5) pip install -U instabot
 ************************************
