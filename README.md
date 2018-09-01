@@ -6,6 +6,9 @@ Main post :: (https://github.com/instagrambot/instabot)
 How to Install Script:: (https://github.com/attakercyebr/hack4lx_Scraper-/blob/master/hack4lx_Scraper_Install)
 *******************************************************
 
+How To Tutorials Video Install Script :: (https://www.youtube.com/channel/UC73xXDVwfS8mE4ExtOg63sw?view_as=subscriber)
+*******************************************************
+
 
 Scraper followers &amp; following instagram ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
 
