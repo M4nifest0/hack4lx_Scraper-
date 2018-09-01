@@ -1,7 +1,5 @@
 # hack4lx_Scraper
 
-Main post :: (https://github.com/instagrambot/instabot)
-*******************************************************
 
 How to Install Script:: (https://github.com/attakercyebr/hack4lx_Scraper-/blob/master/hack4lx_Scraper_Install)
 *******************************************************
