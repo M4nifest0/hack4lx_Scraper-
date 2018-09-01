@@ -3,6 +3,10 @@
 Main post :: (https://github.com/instagrambot/instabot)
 *******************************************************
 
+How to Install Script:: (https://github.com/attakercyebr/hack4lx_Scraper-/blob/master/hack4lx_Scraper_Install)
+*******************************************************
+
+
 Scraper followers &amp; following instagram ••__Hello Guy's i'am hack4lx Nice To See U again !._.!
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/instabotproject)
